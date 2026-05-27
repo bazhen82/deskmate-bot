@@ -86,3 +86,7 @@ cloudflare/   — Worker для Telegram API
 ## Лицензия
 
 MIT
+
+---
+
+**Репозиторий:** https://github.com/bazhen82/deskmate-bot
